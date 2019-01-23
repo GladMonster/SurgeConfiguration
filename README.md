@@ -1,1 +1,1 @@
-# Surege-Configuration
+# Surege Configuration
